@@ -1,0 +1,5 @@
+{
+    "editor.defaultFormatter": "yukiuuh.vscode-modern-fortran-formatter",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false
+}
